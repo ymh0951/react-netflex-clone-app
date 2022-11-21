@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-netflex-clone-app/static/css/main.0afc36d8.css",
+    "main.js": "/react-netflex-clone-app/static/js/main.2f0d4951.js",
+    "static/js/787.f7242feb.chunk.js": "/react-netflex-clone-app/static/js/787.f7242feb.chunk.js",
+    "index.html": "/react-netflex-clone-app/index.html",
+    "main.0afc36d8.css.map": "/react-netflex-clone-app/static/css/main.0afc36d8.css.map",
+    "main.2f0d4951.js.map": "/react-netflex-clone-app/static/js/main.2f0d4951.js.map",
+    "787.f7242feb.chunk.js.map": "/react-netflex-clone-app/static/js/787.f7242feb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0afc36d8.css",
+    "static/js/main.2f0d4951.js"
+  ]
+}
